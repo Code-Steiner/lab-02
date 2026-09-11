@@ -5,7 +5,7 @@
 - **CCID:** `<consigna>`
 
 ## References and Resources
-N/A
+Visited https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-mutable-set/remove.html for .remove() for delete city function.
 
 ## Verbal Collaboration
 N/A
